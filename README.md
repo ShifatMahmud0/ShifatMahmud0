@@ -1,4 +1,4 @@
-# Hi, I'm Shifat Mahmud 👋
+# Hi, It's Shifat Mahmud 👋
 
 ### BSc in Computer Science & Engineering | Aspiring Data Analyst & Data Engineer
 
@@ -79,21 +79,6 @@ A Flutter-based safety application that explores the use of machine learning and
 
 **Technologies:** Flutter, Dart, Machine Learning, TensorFlow Lite.
 
-### 🐾 Smart Pet Feeder – IoT Automation Project
-
-[View Repository](https://github.com/ShifatMahmud0/smart-pet-feeder)
-
-An automated pet feeding solution designed to make pet care more convenient through embedded systems and IoT technologies.
-
-**Key highlights:**
-
-* Automated food dispensing.
-* Food-level monitoring.
-* Weight-based food measurement.
-* Feeding-time alerts and notifications.
-
-**Technologies:** C++, Arduino, ESP8266, IoT, Sensors.
-
 ### 📍 Nirapotta GPS & SMS Feature
 
 [View Repository](https://github.com/ShifatMahmud0/nirapatta-gps_sms_feature)
@@ -108,6 +93,21 @@ A Flutter-based feature designed to share real-time GPS location information wit
 * Mobile permission management.
 
 **Technologies:** Flutter, Dart, GPS, SMS.
+
+### 🐾 Smart Pet Feeder – IoT Automation Project
+
+[View Repository](https://github.com/ShifatMahmud0/smart-pet-feeder)
+
+An automated pet feeding solution designed to make pet care more convenient through embedded systems and IoT technologies.
+
+**Key highlights:**
+
+* Automated food dispensing.
+* Food-level monitoring.
+* Weight-based food measurement.
+* Feeding-time alerts and notifications.
+
+**Technologies:** C++, Arduino, ESP8266, IoT, Sensors.
 
 ---
 
@@ -135,8 +135,8 @@ I'm interested in opportunities where I can apply my programming and analytical 
 I'm always interested in connecting with fellow developers, data professionals, and technology enthusiasts.
 
 * **GitHub:** [@ShifatMahmud0](https://github.com/ShifatMahmud0)
-* **LinkedIn:** [Add your LinkedIn profile URL]
-* **Location:** Bangladesh
+* **LinkedIn:** [Shifat Mahmud](https://www.linkedin.com/in/shifatmahmud-sm/)
+* **Location:** Dhaka, Bangladesh
 
 ---
 
