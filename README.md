@@ -4,7 +4,7 @@
 
 I'm a Computer Science and Engineering graduate with a strong interest in **Data Analytics, Data Engineering, and Data-Driven Problem Solving**.
 
-I enjoy working with data, transforming raw information into meaningful insights, and exploring technologies that help organizations make better decisions. My technical interests also extend to software development, machine learning, and building practical technology-driven solutions.
+I enjoy working with data, transforming raw information into meaningful insights, and exploring technologies that help organizations make better decisions. My technical interests also extend to Data Pipeline Development, machine learning, and building practical technology-driven solutions.
 
 I'm continuously expanding my knowledge through hands-on projects, technical exploration, and learning new tools and technologies.
 
