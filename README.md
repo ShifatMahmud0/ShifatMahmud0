@@ -62,7 +62,7 @@ I'm continuously expanding my knowledge through hands-on projects, technical exp
 
 ---
 
-## Featured Projects
+## Current Projects
 
 ### 🛡️ NIRAPOTTA – Intelligent Safety Application
 
